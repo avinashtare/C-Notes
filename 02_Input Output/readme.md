@@ -4,4 +4,4 @@
 * [click here to learn ](inputs/).
 
 ### output:- show value on output screen.
-* [click here to learn ](output/).
+* [click here to learn ](outputs/).
