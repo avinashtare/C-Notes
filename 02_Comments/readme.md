@@ -7,8 +7,10 @@
 
 ## Types Of Comments
 
-1. Single Line 
-2. Multiline Line 
+| id | Type Of Comments|
+| :- | :-------------- |
+|  1 | Single Line     |
+|  2 | Multiline Line  |
 
 ### 1. Single Line
 * when we need to comment only a Single code we used Single line comments
