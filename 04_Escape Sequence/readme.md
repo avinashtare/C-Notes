@@ -6,20 +6,20 @@
 
 ### Escape Sequence Type in c++
 
-| syntax | Action |
-| :--| | :-- |
-| \n  | New Line |
-| \t  | Horizontal Tab |
-| \v  | Vertical Tab |
-| \\\  | Backslash |
-| \b  | Backspace |
-| \\'  | Single Quote |
-| \\"  | Double Quote |
-| \\?  | Question Mark |
-| \0  | Null Value |
-| \r  | Carriage Return |
-| \f  | Form Feed |
-| \a  | Audible Alert |
+| syntax |      Action      | 
+| :----- | | :------------- | 
+|   \n   |  New Line        | 
+|   \t   |  Horizontal Tab  | 
+|   \v   |  Vertical Tab    | 
+|   \\   |  Backslash       |   
+|   \b   |  Backspace       |   
+|   \'   |  Single Quote    |
+|   \"   |  Double Quote    |
+|   \?   |  Question Mark   | 
+|   \0   |  Null Value      | 
+|   \r   |  Carriage Return | 
+|   \f   |  Form Feed       | 
+|   \a   |  Audible Alert   |
 
 ### some example
 
