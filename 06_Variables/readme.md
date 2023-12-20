@@ -59,3 +59,28 @@ char c1,c2;
 c1 = 'R';
 c2 = 't';
 ```
+
+
+### Local & Global Variable
+* Global Variable:- we can access any where from the code.
+* Local Variable:- we can access withen a block.
+
+Example:- 
+```cpp
+
+#include <iostream>
+
+// it's a global variable 
+int a = 10;
+
+using namespace std;
+int main(void)
+{
+    // it's a local variable/
+    int b = 20;
+    cout<<"Global:- "<<a<<endl;
+    cout<<"Local:- "<<b;
+    return 0;
+}
+
+```
