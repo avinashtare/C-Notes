@@ -1,4 +1,4 @@
-# Operators
+# Operators In C++
 * Operators are used to perform operations on variables and values.
 * Operators perform some action on. 
 * Operators are symbols that represent computations or operations on variables and values.
@@ -49,7 +49,7 @@
 
     ```
     4. Decrement  (--):
-    * The Decrement operator (--) is used to Decrement the value of its operand by 1.
+    * The Decrement operator (--) is used to decrement the value of its operand by 1.
     Example:-
     ```cpp
         int x = 10;
@@ -68,10 +68,10 @@
 * In other words, they perform an operation with a two variables or value
 * There are several binary operators in C++, and here are some of the most common ones:
 ### Types Of Binary Operator
-    1. Arithmetic Operators.
-    2. Relational Operators.
-    3. Logical Operators.
-    4. Assignment Operator
+##### 1. Arithmetic Operators.
+##### 2. Relational Operators.
+##### 3. Logical Operators.
+##### 4. Assignment Operator
 
 #### Arithmetic Operator
   1. ` + ` (addition).
