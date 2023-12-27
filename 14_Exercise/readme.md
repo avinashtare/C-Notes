@@ -25,6 +25,7 @@
 2. Calculate the factorial of a given number using a for loop.
 3. Print the multiplication table of a given number using a for loop.
 4.  Print the multiplication table of a given number using a for loop.
+[Checkout For More Questions](./for-loop-answers.md)
 
 [For-Loop Answers](./for-loop-answers.md)
 

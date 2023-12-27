@@ -57,7 +57,72 @@ int main()
     return 0;
 }
 ```
-4.  Print a pattern of stars in the shape of a right-angled triangle using a for loop.
+
+4.  Print Below Output.
+```cpp
+- output
+
+*
+**
+***
+```
+
+```cpp
+#include <iostream>
+
+using namespace std;
+int main()
+{
+
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j <= i; j++)
+        {
+            cout << "*";
+        }
+
+        // newline 
+        cout << endl;
+    }
+
+    return 0;
+}
+```
+
+5.  Print Below Output.
+```cpp
+output
+
+***
+**
+*
+```
+
+```cpp
+#include <iostream>
+
+using namespace std;
+int main()
+{
+
+  
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 1; j <= 3-i; j++)
+        {
+            cout << "*";
+        }
+
+        // newline 
+        cout << endl;
+    }
+
+    return 0;
+}
+```
+
+
+6.  Print a pattern of stars in the shape of a right-angled triangle using a for loop.
 ```cpp
 - output
 
