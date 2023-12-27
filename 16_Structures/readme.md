@@ -36,12 +36,16 @@ struct StructureName {
 } structure_variableName; // <---------- here
 ```
 ### 3. Store Values
-**syntax:** of store value in struct:
+**syntax:** of store value in struct using datatype:
 ```cpp
 struct structure_name structure_variableName;
 
 structure_variableName.variableName_1 = value;
 structure_variableName.variableName_1 = value;
+```
+**syntax:** of store value in struct using brakets:
+```cpp
+struct structure_name structure_variableName = {value_1,value2,value_n};
 ```
 ### 4. Access Valeus (print)
 **syntax:** of access value in struct:
@@ -136,3 +140,7 @@ int main()
     return 0;
 }
 ```
+
+
+| [Next: Structure With Array](./structure_array.md) |
+| -------------------------------------------------- |
