@@ -134,5 +134,5 @@ int main()
 
 
 
-| [Back: Structures](./readme.md) | [Next: Structure With Array](./structure_array.md) |
+| [Back: Structures](./readme.md) | [Next: Nested Structure](./nested%20structure.md) |
 | ----------------------------- | --------------------------- |
