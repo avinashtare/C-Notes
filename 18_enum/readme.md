@@ -41,7 +41,14 @@ using namespace std;
 int main()
 {   
     // declaration 
-    enum numbers {zero, one, tow, three, four, five};
+    enum numbers {
+        zero,
+        one,
+        tow,
+        three,
+        four,
+        five
+    };
 
     // add values 
     numbers n0 = zero;
