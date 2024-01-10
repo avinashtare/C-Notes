@@ -38,11 +38,11 @@
 1. Declare an enumeration named 'Weekdays' to represent the days of the week (Monday, Tuesday, ..., Sunday). Print the values of Monday and Friday.
 2.  Write a program in C++ that uses an enum to represent traffic light colors (Red, Yellow, Green). Accept user input for the current color and print the next color.
 
-[Answers Unions](./enums-answers.md)
+[Answers enum](./enums-answers.md)
 
 #### *Pointers*
 1. Declare an integer variable 'num' and a pointer 'ptr' to store its address. Initialize 'num' to 42 and print both the value and the address.
 2. Create an array of integers named 'arr' with values 1, 2, 3. Declare a pointer 'p' and use it to print the elements of the array.
 3. Declare an array of characters named 'str' with the value "Hello". Create a pointer 'charPtr' and use it to print each character of the string.
 
-[Answers Unions](./pointers-answers.md)
+[Answers Pointers](./pointers-answers.md)
