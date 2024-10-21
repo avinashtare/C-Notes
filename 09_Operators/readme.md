@@ -16,12 +16,12 @@
     * unary plus operator is used to indicate the positive value of an expression
     Example:-
     ```cpp
-         int x = -10;
-        cout << x << " "; // Output: -10
+       int x = 10;
+      cout << x << " "; // Output: 10
 
-        +x;
+      +x;
 
-        cout << x << endl; // Output: 10
+      cout << x << endl; // Output: 10
 
     ```
     2. Unary Minus (-):
@@ -45,7 +45,7 @@
         
         x++;
 
-        cout << y << endl; // Output: 11
+        cout << x << endl; // Output: 11
 
     ```
     4. Decrement  (--):
@@ -103,7 +103,7 @@ cout<<z;
 ```c++
 int x = 15;
 int y = 3;
-int z = x - y; // output:- 5
+int z = x / y; // output:- 5
 cout<<z;
 ```
   5. ` % ` (modulas) returns reminders.
