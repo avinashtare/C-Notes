@@ -64,6 +64,5 @@ cout<<sub; // output: My Name
 ### Length: get the length of the string
 ```cpp
 string strval = "My Name Is John";
-string sub = strval.substr(0, 7); // Get a substring starting from index 0 with length 7
-cout << sub;                      // Output: My Name
+cout << strval.length(); // Output: 15
 ```
